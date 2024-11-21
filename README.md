@@ -31,7 +31,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
    Clone this repository or download the ZIP file and extract it.
 
    ```bash
-   git clone [https://github.com/your-repository-url.git](https://github.com/anggastaa/AnalisData_Dicoding.git)
+   [git clone https://github.com/anggastaa/AnalisData_Dicoding.git](https://github.com/anggastaa/AnalisData_Dicoding.git)
    cd AnalisData_Dicoding
 2. **Create a Virtual Environment**
     It's recommended to create a virtual environment for the project.
