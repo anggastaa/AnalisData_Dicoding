@@ -47,5 +47,5 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 4. **Run the Project**
     Run the dashboard application.
     ```bash
-    streamlit run app.py
+    streamlit run dahboard/dashboard.py
  
