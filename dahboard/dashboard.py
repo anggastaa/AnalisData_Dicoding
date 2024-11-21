@@ -9,8 +9,8 @@ import calendar
 from datetime import datetime
 
 # Load dataset
-df_day = pd.read_csv('Day.csv')  # Ganti dengan path file dataset day
-df_hour = pd.read_csv('Hour.csv')  # Ganti dengan path file dataset hour
+df_day = pd.read_csv('dahboard/Day.csv')  # Ganti dengan path file dataset day
+df_hour = pd.read_csv('dahboard/Hour.csv')  # Ganti dengan path file dataset hour
 
 # Convert date columns to datetime
 df_day['dteday'] = pd.to_datetime(df_day['dteday'])
